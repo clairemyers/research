@@ -3,8 +3,8 @@
   text-transform: lowercase;
   font-size: 60px;
   font-weight:900;
-  color: hsl(186, 52%, 75%);
-  text-shadow: 10px 10px 0px #ffffff;
+  color: hsl(186, 52%, 60%);
+  text-shadow: 5px 5px 0px #ffffff;
 }
 .headings{
   font-family: 'Playfair Display', serif;
