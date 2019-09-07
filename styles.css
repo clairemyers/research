@@ -13,6 +13,7 @@
   background-color: hsl(51, 100%, 50%);
   text-align: center;
   color: #ffffff;
+  text-transform: uppercase;
 }
 p{
   font-family: 'Raleway', sans-serif;
