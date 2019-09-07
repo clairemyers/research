@@ -14,6 +14,6 @@ p{
   font-size: 20px;
   font-weight: 400;
 }
-hr{
-  color: hsl(5, 100%, 90%)
+html{
+  background-color: hsl(5, 100%, 95%)
 }
