@@ -23,3 +23,6 @@ p{
 html{
   background-color: hsl(5, 100%, 98%);
 }
+a{
+  color: hsl(6, 100%, 85%);
+}
