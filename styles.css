@@ -1,3 +1,29 @@
-h1 {
-  font-family: 'Roboto', sans-serif;
+#title{
+  font-family: 'Playfair Display', serif;
+  text-transform: lowercase;
+  font-size: 60px;
+  font-weight:900;
+  color: hsl(186, 52%, 60%);
+  text-shadow: 5px 5px 0px #ffffff;
+}
+.headings{
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  font-weight: 400;
+  background-color: hsl(51, 100%, 50%);
+  text-align: center;
+  color: #ffffff;
+  text-transform: lowercase;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: hsl(0, 0%, 25%);
+}
+html{
+  background-color: hsl(5, 100%, 95%);
+}
+a{
+  color: hsl(6, 100%, 80%);
 }
